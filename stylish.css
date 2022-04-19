@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@500&display=swap');
+body{
+    font-family: 'League Spartan', sans-serif;
+    color: #BCBCBC;
+}
+html { 
+    background: url(arkaplan.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
